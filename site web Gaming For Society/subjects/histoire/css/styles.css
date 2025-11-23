@@ -127,3 +127,13 @@ a:hover {
         margin-bottom: 1rem;
     }
 }
+
+/* Section styling */
+section {
+    padding: 50px 30px;
+    margin: 40px auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    max-width: 1200px;
+}
